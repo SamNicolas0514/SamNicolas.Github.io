@@ -20,7 +20,7 @@ key projects, methodologies, tools, and outcomes.
     <p>. Extract and investigate indicators such as URLs, attachments, and sender domains.</p>
     <p>. Identify the phishing technique and potential payload.</p>
     <p>. Recommend mitigation and response strategies.</p>
-    <a href="#">Detection Lab ➜</a>
+   
   </section>
 
   <section class="challenge">
@@ -29,7 +29,7 @@ key projects, methodologies, tools, and outcomes.
     <p>. Identify Indicators of Compromise (IOCs) and attacker techniques.</p>
     <p>. Map activity to the MITRE ATT&CK framework.</p>
     <p>. Generate actionable insights and remediation strategies.</p>
-    <a href="#">Detection Lab ➜</a>
+   
   </section>
 
   <section class="challenge">
@@ -37,6 +37,6 @@ key projects, methodologies, tools, and outcomes.
     <p>. Analyze packet capture files for suspicious traffic.</p>
     <p>. Use Zeek and Suricata logs for behavioral detection.</p>
     <p>. Generate incident findings based on IOC and protocol analysis.</p>
-    <a href="#">Analysis ➜</a>
+   
   </section>
 
