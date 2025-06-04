@@ -11,32 +11,19 @@ key projects, methodologies, tools, and outcomes.
 
 
 
-<div class="challenge-highlights">
-  <h2>✅ Completed Challenge Highlights</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
-  <section class="challenge">
-    <h3>🕵️ Phishing Analysis –  Phishing Response Challenge</h3>
-    <p>. Analyze the structure and content of a suspicious email.</p>
-    <p>. Extract and investigate indicators such as URLs, attachments, and sender domains.</p>
-    <p>. Identify the phishing technique and potential payload.</p>
-    <p>. Recommend mitigation and response strategies.</p>
-   
-  </section>
+- <b>Phishing Analysis Lab </b>
+  - [Categorizing Phishing Emails & Manual Artifact Extraction](https://github.com/SamNicolas0514/PhishingResponse-Challenge)
+    
+- <b>Threat Intelligence Lab</b>
+  - [Threat Intelligance](https://github.com/SamNicolas0514/Threat-Intelligence) <b><i>(Using MISP)</b></i>
+ 
+- <b> Security Information and Event Monitoring</b>
+  - [Splunk Investigation 1 Lab](https://github.com/SamNicolas0514/Splunk-Investigation)
+  - [Splunk Investigation 2 Lab](https://github.com/SamNicolas0514/Splunk-Investigation-2)
+  - [Splunk Investigation 3 Lab](https://github.com/SamNicolas0514/Splunk-Investigation-3)
+  - [Splunk Investigation 4 Lab](https://github.com/SamNicolas0514/Splunk-Investigation-4)
 
-  <section class="challenge">
-    <h3>🔍 Security Information and Event Monitoring (SIEM) – Splunk Investigation</h3>
-    <p>. Use Splunk to investigate potential security incidents.</p>
-    <p>. Identify Indicators of Compromise (IOCs) and attacker techniques.</p>
-    <p>. Map activity to the MITRE ATT&CK framework.</p>
-    <p>. Generate actionable insights and remediation strategies.</p>
-   
-  </section>
-
-  <section class="challenge">
-    <h3>🦠 Incident Response – Network Traffic Analysis Investigations</h3>
-    <p>. Analyze packet capture files for suspicious traffic.</p>
-    <p>. Use Zeek and Suricata logs for behavioral detection.</p>
-    <p>. Generate incident findings based on IOC and protocol analysis.</p>
-   
-  </section>
-
+- <b> Incident Response Lab</b>
+  - [Wireshark Activity](https://github.com/SamNicolas0514/WireShark_Challenge)
